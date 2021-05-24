@@ -1,0 +1,20 @@
+npm init -y [para crear el packaje.json]
+
+npm install express [instala el framework]
+
+npm install nodemon [package recarga automatica del servidor]
+npx nodemon index.js [para ejecutar el server con nodemon]
+
+npm install body-parser [para manipular los json en los requerst]
+
+npm install mongoose --save [para instalar mongoose que es un orm]
+
+npm i -S bcrypt-nodejs [para guardar las contraseñas encriptadas]
+
+npm i -S crypto [crea hash en md5]
+
+npm install jwt-simple [para usar json web tokens]
+
+npm install --save moment [para manejo de fechas]
+
+npm install cors [para permitir la comunicacion entre servidores -> ver config.js]
